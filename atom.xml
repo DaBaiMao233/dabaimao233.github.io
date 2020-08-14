@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>糖醋大白猫的博客</title>
+  
+  <subtitle>糖醋大白猫的博客</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-14T06:20:53.955Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>糖醋大白猫</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>白猫的博客开通了</title>
+    <link href="http://yoursite.com/2020/08/14/%E7%99%BD%E7%8C%AB%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BC%80%E9%80%9A%E4%BA%86/"/>
+    <id>http://yoursite.com/2020/08/14/%E7%99%BD%E7%8C%AB%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%BC%80%E9%80%9A%E4%BA%86/</id>
+    <published>2020-08-14T06:20:53.000Z</published>
+    <updated>2020-08-14T06:20:53.955Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
